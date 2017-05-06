@@ -1,2 +1,1 @@
-a= raw_input()
-print a
+print "This is my First Jenkins Project"
